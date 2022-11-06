@@ -1,0 +1,39 @@
+body {
+    background-color:rgb(255, 255, 255);
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    padding: 25px;
+}
+h1 {
+    color:rgb(17, 147, 104);
+    font-family: "Ubuntu", sans-serif;
+    text-align: center;
+}
+img {
+    max-width: 50%;
+    height: auto;
+    padding: 25px;
+}
+nav {
+    display: block;
+    padding: 8px;
+    background-color: rgb(17, 147, 104);
+}
+a {
+    padding: 16px;
+}
+
+b.title {
+    color: rgb(0, 157, 255);
+}
+b.sub.title {
+    font-size: 33%;
+}
+
+.post {
+    text-align: left;
+}
+h2:first-child {
+    font-family: "Ubuntu", sans-serif;
+}
+

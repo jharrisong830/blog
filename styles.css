@@ -9,11 +9,6 @@ h1 {
     font-family: "Ubuntu", sans-serif;
     text-align: center;
 }
-img {
-    max-width: 50%;
-    height: auto;
-    padding: 25px;
-}
 nav {
     display: block;
     padding: 8px;

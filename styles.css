@@ -33,7 +33,24 @@ b.sub.title {
 .post {
     text-align: left;
 }
-h2:first-child {
+article h2 {
     font-family: "Ubuntu", sans-serif;
+    margin-top: 16px;
+    margin-bottom: 0px;
 }
+article h5 {
+    font-family: "Ubuntu", sans-serif;
+    margin-top: 4px;
+    margin-bottom: 8px;
+}
+article p {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+img {
+    max-height: 21.3333px;
+    float: left;
+}
+
 

@@ -48,8 +48,13 @@ nav img {
     padding-right: 4px;
 }
 article img {
-    max-width: 100%;
-    max-height: auto;
     float: right;
     margin: 5px;
+}
+
+.fright {
+    float: right;
+}
+.fleft {
+    float: left;
 }

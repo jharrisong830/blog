@@ -1,8 +1,11 @@
 body {
     background-color:rgb(255, 255, 255);
-    font-family: "Roboto Mono", monospace;
+    font-family: "Roboto Slab", serif;
     text-align: center;
     padding: 25px;
+}
+.computerCode {
+    font-family: "Roboto Mono", sans-serif
 }
 h1 {
     color:rgb(17, 147, 104);
@@ -10,14 +13,14 @@ h1 {
     text-align: center;
 }
 nav {
+    font-family: "Ubuntu", sans-serif;
     display: block;
     padding: 8px;
     background-color: rgb(17, 147, 104);
 }
-a {
+.navElement {
     padding: 16px;
 }
-
 b.title {
     color: rgb(0, 157, 255);
 }
